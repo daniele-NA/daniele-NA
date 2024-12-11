@@ -1,9 +1,9 @@
 ## Hi I'm Crescenzi Daniele 👋
 
 
-                                                     🔭 I’m currently working on an Android app
-                                                     🌱 I’m currently learning flutter
-                                                     💬 Ask me about java
+                                                 🔭 I’m currently working on an Android app
+                                                 🌱 I’m currently learning flutter
+                                                 💬 Ask me about java
 
 
 
