@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **daniele-NA/daniele-NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,c,java,javascript,mysql,androidstudio,arduino,eclipse,idea,kali,linux,windows,php" /><br>
+</div>
