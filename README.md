@@ -1,21 +1,14 @@
-## Hi there 👋
+## Hi I'm Crescenzi Daniele 👋
 
-**daniele-NA/daniele-NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                                     🔭 I’m currently working on an Android app
+                                                     🌱 I’m currently learning flutter
+                                                     💬 Ask me about java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,c,java,javascript,mysql,androidstudio,arduino,eclipse,idea,kali,linux,windows,php" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,c,java,javascript,mysql,androidstudio,kotlin,dart,flutter,idea,windows,php,c,flask,gradle,maven,py,spring,ts" /><br>
 </div>
