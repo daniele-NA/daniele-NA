@@ -6,8 +6,13 @@
   <strong style="font-size: 24px;">💬 Ask me about Java</strong>
 </p>
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2>## Most used Languages</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,mysql,kotlin,dart,flutter,cpp,c,flask,gradle,maven,spring" /><br>
-</div>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,swift,cpp,c,gradle,maven,spring" /><br>
+
+
+
+
+### A lot of experience with
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,mysql,flask" /><br>
