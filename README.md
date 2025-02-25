@@ -6,7 +6,7 @@
   <strong style="font-size: 24px;">💬 Ask me about Java</strong>
 </p>
 
-<h2>## Most used Languages</h2>
+## Most used Languages
 <br/>
 <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,swift,cpp,c,gradle,maven,spring" /><br>
 
