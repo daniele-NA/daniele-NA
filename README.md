@@ -8,7 +8,7 @@
 
 ## Most used Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,swift,cpp,c,spring,javaee" /><br>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,swift,cpp,c,spring" /><br>
 
 
 
