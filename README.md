@@ -3,7 +3,7 @@
 <p align="center">
   <strong style="font-size: 24px;">🌱 Mobile developer (Flutter, Compose, C/Cpp, Kotlin)</strong><br><br>
   <strong style="font-size: 24px;">🚀 Creator of <a href="https://play.google.com/store/apps/details?id=com.crescenzi.remocat">Remocat</a></strong><br><br>
-  <strong style="font-size: 24px;">⚡ Creator of <a href="https://github.com/daniele-NA/PreferencesGenerator">PreferencesGenerator</a></strong>
+  <strong style="font-size: 24px;">⚡ Creator of <a href="https://github.com/daniele-NA/PreferencesGenerator">PreferencesGenerator</a></strong><br/>
   <strong style="font-size: 24px;">🔭 Creator of <a href="https://www.spaceconverter.it">SpaceConverter</a></strong><br><br>
 </p>
 
